@@ -1,0 +1,6 @@
+framework module Pods_social_network_for_iOS9_with {
+  umbrella header "Pods-social network for iOS9 with-umbrella.h"
+
+  export *
+  module * { export * }
+}
